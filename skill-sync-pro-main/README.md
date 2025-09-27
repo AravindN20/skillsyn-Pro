@@ -1,18 +1,5 @@
 #  SkillSync Pro
 
-<div align="center">
-
-![Backend CI](https://github.com/DevikaReddi/skill-sync-pro/workflows/Backend%20CI/badge.svg)
-![Frontend CI](https://github.com/DevikaReddi/skill-sync-pro/workflows/Frontend%20CI/badge.svg)
-![Deploy](https://github.com/DevikaReddi/skill-sync-pro/workflows/Deploy%20to%20Production/badge.svg)
-[![codecov](https://codecov.io/gh/DevikaReddi/skill-sync-pro/branch/main/graph/badge.svg)](https://codecov.io/gh/DevikaReddi/skill-sync-pro)
-
-**AI-Powered Resume & Job Description Analyzer**
-
-[Live Demo](https://skill-sync-pro.vercel.app) | [API Docs](https://skillsync-pro-api.onrender.com/docs) | [Report Bug](https://github.com/DevikaReddi/skill-sync-pro/issues)
-
-</div>
-
 ##  Overview
 
 SkillSync Pro is a full-stack web application that bridges the gap between job seekers' resumes and employer requirements using advanced NLP analysis.
