@@ -1,4 +1,4 @@
-# 🎯 SkillSync Pro
+#  SkillSync Pro
 
 <div align="center">
 
@@ -13,18 +13,18 @@
 
 </div>
 
-## 📋 Overview
+##  Overview
 
 SkillSync Pro is a full-stack web application that bridges the gap between job seekers' resumes and employer requirements using advanced NLP analysis.
 
-## ✨ Features
+##  Features
 
-- 🔍 **Dynamic Skill Gap Analysis** - Extract and compare skills using NLP
-- 🤖 **AI-Powered Recommendations** - Get relevant skill suggestions
-- 📊 **Match Percentage** - See how well you match the job requirements
-- 🎨 **Modern UI** - Clean, responsive interface built with React and Tailwind CSS
-- ⚡ **Fast API** - High-performance backend with FastAPI
-- 🚀 **CI/CD Pipeline** - Automated testing and deployment
+-  **Dynamic Skill Gap Analysis** - Extract and compare skills using NLP
+-  **AI-Powered Recommendations** - Get relevant skill suggestions
+-  **Match Percentage** - See how well you match the job requirements
+-  **Modern UI** - Clean, responsive interface built with React and Tailwind CSS
+-  **Fast API** - High-performance backend with FastAPI
+-  **CI/CD Pipeline** - Automated testing and deployment
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +49,7 @@ SkillSync Pro is a full-stack web application that bridges the gap between job s
 - **Vercel** - Frontend hosting
 - **Docker** - Containerization
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -82,7 +82,7 @@ Frontend will be available at http://localhost:5173
 ```bash
 bashdocker-compose up
 ```
-### 🧪 Testing
+###  Testing
 Backend Tests
 ```bash cd backend
 pytest ```
@@ -90,9 +90,9 @@ Frontend Tests
 ``` bash cd frontend
 npm run test
 ```
-📦 API Endpoints
+ API Endpoints
 EndpointMethodDescription/GETAPI information/healthGETHealth check/docsGETSwagger documentation/api/v1/analysis/analyzePOSTAnalyze resume against job description/api/v1/analysis/statusGETCheck analysis service status
-🔄 CI/CD Pipeline
+ CI/CD Pipeline
 Every push to main triggers:
 
 Backend CI - Linting, type checking, unit tests
